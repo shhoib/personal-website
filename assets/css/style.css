@@ -768,7 +768,7 @@ section {
   background: url("/assets/img/usfooter.jpeg") no-repeat;
   background-position: center center;
   background-size: cover;
-  position: relative;
+  position: relative; 
 }
 
 .testimonials::before {
